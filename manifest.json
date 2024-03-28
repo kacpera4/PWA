@@ -1,0 +1,16 @@
+{
+    "name":"PWA_test_Archacki",
+    "short_name":"PWA",
+    "start_url":"",
+    "background_color":"",
+    "theme_color":"",
+    "dysplay":"fullscreen",
+    "scope":"",
+    "icons":[
+        {
+            "src":"icon",
+            "sizes":"512px",
+            "type":"png"
+        }
+    ]
+}
